@@ -9,7 +9,7 @@
 .wizard {
   position: absolute;
   width: 100px; 
-  transition: top 0.5s, left 0.5s; 
+  transition: top 2.5s, left 2.5s; 
 }
 
 .right {
